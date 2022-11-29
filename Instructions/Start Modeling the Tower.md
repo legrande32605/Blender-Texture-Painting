@@ -1,0 +1,24 @@
+# Steps to Start Modeling the Tower
+- Delete default cube
+- Add Mesh -> Cylinder
+- Change verticies to 16
+- Translate Z to 1 (put on the floor)
+- Edit Mode
+- Select top face
+- Scale 0.85 in X and Y
+- Move face z-axis -0.6
+- Extrude 
+- Scale 1.3 in X and Y
+- Move 0.1 in Z 
+- Extrude Z 0.6
+- X and Y Mirror modifier
+- Inset (boundary) 0.3
+- Extrude -0.5
+- Select the two outside top credilation faces
+- Extrude 0.1
+- Loop cut upper ring, 0.1 under the top.
+- Select all 4 credilation faces
+- Change pivot to individual origins
+- Extrude 0.1
+- Change pivot to median
+- Save
