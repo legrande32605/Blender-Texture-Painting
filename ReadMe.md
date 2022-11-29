@@ -15,5 +15,5 @@ Following design project to practice texture painting
 ## Results of Course Videos
 ### Section 1 - Main Project
 - Part 1: [Start Modeling The Tower](./Instructions/Start%20Modeling%20the%20Tower.md)   
-[![Start Modeling The Tower](./Renders/Thumb%20-%20Start%20Modeling%20The%20Tower.png)](./Renders/Start%20Modeling%20The%20Tower.png)
-- Part 2:
+[![Start Modeling The Tower](../../raw/master/Renders/Thumb%20-%20Start%20Modeling%20the%20Tower.png)](./Renders/Start%20Modeling%20the%20Tower.png)
+
