@@ -16,5 +16,7 @@ Following design project to practice texture painting
 ### Section 1 - Main Project
 - Part 1: [Start Modeling The Tower](./Instructions/Start%20Modeling%20the%20Tower.md)   
 [![Start Modeling The Tower](./Renders/Thumb%20-%20Start%20Modeling%20the%20Tower.png)](./Renders/Start%20Modeling%20the%20Tower.png)
-- Part 1: [Modeling Tower Stones](./Instructions/Modeling%20Tower%20Stones.md)   
+- Part 2: [Modeling Tower Stones](./Instructions/Modeling%20Tower%20Stones.md)   
 [![Modeling Tower Stones](./Renders/Thumb%20-%20Modeling%20Tower%20Stones.png)](./Renders/Modeling%20Tower%20Stones.png)
+- Part 3: [Modeling the Door and Ground](./Instructions/Modeling%20the%20Door%20and%20Ground.md)   
+[![Modeling the Door and Ground](./Renders/Thumb%20-%20Modeling%20the%20Door%20and%20Ground.png)](./Renders/Modeling%20the%20Door%20and%20Ground.png)
