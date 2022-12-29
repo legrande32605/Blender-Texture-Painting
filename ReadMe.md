@@ -24,3 +24,5 @@ Following design project to practice texture painting
 [![Modeling the Door and Ground](./Renders/Thumb%20-%20Modeling%20the%20Door%20and%20Ground.png)](./Renders/Modeling%20the%20Door%20and%20Ground.png)
 - Part 4: Modeling Rocks and Pavers  
 [![Modeling Rocks and Pavers](./Renders/Thumb%20-%20Stones%20and%20Pavers.png)](./Renders/Stones%20and%20Pavers.png)
+- Part 5: UV Unwrap  
+[![UV Unwrap](./Renders/Thumb%20-%20UVUnwrap.png)](./Renders/UVUnwrap.png)
