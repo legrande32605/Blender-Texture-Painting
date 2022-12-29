@@ -20,3 +20,7 @@ Following design project to practice texture painting
 [![Modeling Tower Stones](./Renders/Thumb%20-%20Modeling%20Tower%20Stones.png)](./Renders/Modeling%20Tower%20Stones.png)
 - Part 3: [Modeling the Door and Ground](./Instructions/Modeling%20the%20Door%20and%20Ground.md)   
 [![Modeling the Door and Ground](./Renders/Thumb%20-%20Modeling%20the%20Door%20and%20Ground.png)](./Renders/Modeling%20the%20Door%20and%20Ground.png)
+- Part 3: [Modeling the Door and Ground](./Instructions/Modeling%20the%20Door%20and%20Ground.md)   
+[![Modeling the Door and Ground](./Renders/Thumb%20-%20Modeling%20the%20Door%20and%20Ground.png)](./Renders/Modeling%20the%20Door%20and%20Ground.png)
+- Part 4: Modeling Rocks and Pavers  
+[![Modeling Rocks and Pavers](./Renders/Thumb%20-%20Stones%20and%20Pavers.png)](./Renders/Stones%20and%20Pavers.png)
