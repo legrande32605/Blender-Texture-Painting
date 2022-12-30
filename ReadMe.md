@@ -28,3 +28,5 @@ Following design project to practice texture painting
 [![UV Unwrap](./Renders/Thumb%20-%20UVUnwrap.png)](./Renders/UVUnwrap.PNG)
 - Part 6: UV Unwrap with Seams  
 [![UV Unwrap with Seams](./Renders/Thumb%20-%20UVUnwrap%20Seams.png)](./Renders/UVUnwrap%20Seams.PNG)
+- Part 7: Painting Base Colors  
+[![Painting Base Colors](./Renders/Thumb%20-%20Painting%20Base%20Colors.png)](./Renders/Painting%20Base%20Colors.PNG)
